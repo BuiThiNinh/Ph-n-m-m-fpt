@@ -1,0 +1,4 @@
+E:\Nam4\FBT_Shop\DoAN\Tk_Contronl\bin\Debug\Tk_Contronl.dll
+E:\Nam4\FBT_Shop\DoAN\Tk_Contronl\bin\Debug\Tk_Contronl.pdb
+E:\Nam4\FBT_Shop\DoAN\Tk_Contronl\obj\Debug\Tk_Contronl.dll
+E:\Nam4\FBT_Shop\DoAN\Tk_Contronl\obj\Debug\Tk_Contronl.pdb
